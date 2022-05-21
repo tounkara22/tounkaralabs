@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "description": "Here, I share about projects I work on and ideas I love, mostly about tech & startups. Since this a lab, don't be surprised if I experiment... 😜 👊🏾",
+    "title": "Welcome to my lab 👋🏾!",
+    "image_alt": "This is my profile picture"
+  },
+  "header": {
+    "logo": "Tounkara Labs",
+    "overview": "Overview",
+    "contact": "Contact",
+    "blog": "Blog",
+    "projects": "Projects"
+  },
+  "featured-projects": {
+    "title": "Featured projects",
+    "description": "One of the most fascinating about programming is that one does not need too much in order to go from ideas to products.",
+    "projects": {
+      "fluantly": {
+        "title": "Fluantly",
+        "description": "Too many people know too many grammar rules but don't have confidence to speak a new language. Fluantly does not care about rules... Just understand and be understood!"
+      }
+    }
+  }
+}
