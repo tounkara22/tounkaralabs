@@ -27,6 +27,7 @@ const LatestProjects = () => {
         {projectsData.map((project, i) => {
           return (
             <Accordion.Item
+              key={i}
               eventKey={i.toString()}
               className="accordion accordion-flush"
             >
